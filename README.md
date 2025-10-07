@@ -53,9 +53,15 @@ The dataset contains **CT and MRI stroke images** with corresponding labels to i
 - 🌈 **Custom Streamlit UI:** Clean, modular, and responsive interface  
 
 ---
+## 📊 Tech Stack
+| Category          | Tools / Libraries           |
+| ----------------- | --------------------------- |
+| Web Framework     | Streamlit                   |
+| Image Processing  | OpenCV, Pillow              |
+| Data Analysis     | Pandas, NumPy               |
+| Visualization     | Plotly, Matplotlib, Seaborn |
+| Machine Learning  | Scikit-learn                |
+| Deep Learning     | TensorFlow / Keras          |
+| Model Persistence | joblib / pickle             |
+| Environment       | Python 3.8+                 |
 
-## 🖥️ How to Run  
-
-### ▶️ Local Execution  
-```bash
-streamlit run app.py
